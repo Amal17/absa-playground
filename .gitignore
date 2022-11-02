@@ -5,6 +5,7 @@
 
 # ipynb
 .ipynb_checkpoints
+.absa-airy
 
 # Icon must end with two \r
 Icon
